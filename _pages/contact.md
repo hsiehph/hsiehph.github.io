@@ -5,8 +5,7 @@ layout: single
 classes: wide
 header:
   image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
-title: "Contact Me"
-
+  caption: "Photo credit:[James Carey](https://www.debutart.com/artist/james-carey)"
 ---
 
 Please reach out with any questions about my research or interest in collaborations.
