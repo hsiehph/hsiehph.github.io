@@ -86,13 +86,19 @@ author:
 #      url: "https://instagram.com/"
 
 footer:
-  #  links:
-  #    - label: "Twitter"
-  #      icon: "fab fa-fw fa-twitter-square"
-  #      url: "https://twitter.com/bvdbirds"
-  #    - label: "GitHub"
-  #      icon: "fab fa-fw fa-github"
-  #      url: "https://github.com/bmvandoren"
+    links:
+      - label: "hsiehph [@] uw.edu"
+        icon: "far fa-envelope"
+        url: ""
+      - label: "Google Scholar"
+        icon: "fas fa-fw fa-graduation-cap"
+        url: "https://scholar.google.com.tw/citations?user=CvMzX6AAAAAJ&hl=en"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/hsiehph"
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/phhBenson"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"

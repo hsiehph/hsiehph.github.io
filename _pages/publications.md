@@ -5,14 +5,15 @@ author_profile: true
 title: "Publications"
 classes: wide
 header:
-  image: /assets/images/101516_hybrids_opener_free.JamesCarey.v2.png
+  image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
+  caption: "Photo credit:[James Carey](https://www.debutart.com/artist/james-carey)"
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-18 journal articles · [770](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [10](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
+17 journal articles · [770](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [10](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
 <br><small>Last updated 05 Mar 2021</small>
 <table class="publication-table">
-<caption>2021</caption>
+<caption>Preprints</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> altmetric_badge </th>
@@ -22,16 +23,27 @@ header:
 <tbody>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.21203/rs.3.rs-77798/v1' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='opposing_selective_forces_operating_on_human_specific_duplicated_tcaf_genes_in_neanderthals_and_humans'></a><span class='pub-title'><a href='https://www.researchsquare.com/article/rs-77798/v1'>Opposing selective forces operating on human-specific duplicated TCAF genes in Neanderthals and humans</a></span><br> <b>Hsieh PH</b>, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. <br> <i>Research Square</i> <br>  <span class='publication-extra'><a href='https://www.researchsquare.com/article/rs-77798/v1.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='opposing_selective_forces_operating_on_human_specific_duplicated_tcaf_genes_in_neanderthals_and_humans'></a><span class='pub-title'><a href='https://www.researchsquare.com/article/rs-77798/v1'>Opposing selective forces operating on human-specific duplicated TCAF genes in Neanderthals and humans</a></span><br> <b>Hsieh PH</b>, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. <br> <i>In Review at Nature Communication. Preprint on Research Square</i> <br>  <span class='publication-extra'><a href='https://www.researchsquare.com/article/rs-77798/v1.pdf'>pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.08.18.255562' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='a_human_specific_structural_variation_at_the_znf558_locus_controls_a_gene_regulatory_network_during_forebrain_development'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1'>A human-specific structural variation at the ZNF558 locus controls a gene regulatory network during forebrain development</a></span><br> Johansson PA, Brattås PL, Douse CH, <b>Hsieh PH</b>, Pontis J, Grassi D, Garza R, Jönsson ME, Atacho DAM, Pircs K, Eren F, Sharma Y, Johansson J, Trono D, Eichler EE, Jakobsson J. <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1.full.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='a_human_specific_structural_variation_at_the_znf558_locus_controls_a_gene_regulatory_network_during_forebrain_development'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1'>A human-specific structural variation at the ZNF558 locus controls a gene regulatory network during forebrain development</a></span><br> Johansson PA, Brattås PL, Douse CH, <b>Hsieh PH</b>, Pontis J, Grassi D, Garza R, Jönsson ME, Atacho DAM, Pircs K, Eren F, Sharma Y, Johansson J, Trono D, Eichler EE, Jakobsson J. <br> <i>In Revision (Cell Stem Cell). Preprint on bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1.full.pdf'>pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.02.10.932327' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='recent_ultra_rare_inherited_mutations_identify_novel_autism_candidate_risk_genes'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1'>Recent ultra-rare inherited mutations identify novel autism candidate risk genes</a></span><br> Wilfert AB, Turner TN, Murali SC, <b>Hsieh PH</b>, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1.full.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='recent_ultra_rare_inherited_mutations_identify_novel_autism_candidate_risk_genes'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1'>Recent ultra-rare inherited mutations identify novel autism candidate risk genes</a></span><br> Wilfert AB, Turner TN, Murali SC, <b>Hsieh PH</b>, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium <br> <i>In Review at Nature Genetics. Preprint on bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1.full.pdf'>pdf</a></span> </td>
   </tr>
+</tbody>
+</table>
+<table class="publication-table">
+<caption>2021</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> altmetric_badge </th>
+   <th style="text-align:left;"> citation </th>
+  </tr>
+ </thead>
+<tbody>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1126/science.abf7117' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='haplotype_resolved_diverse_human_genomes_and_integrated_analysis_of_structural_variation'></a><span class='pub-title'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117'>Haplotype-resolved diverse human genomes and integrated analysis of structural variation</a></span><br> Ebert P, Audano PA, Zhu Q, Rodriguez-Martin B, Porubsky D, Bonder MJ, Sulovari A, Ebler J, Zhou W, Mari RS, Yilmaz F, Zhao X, <b>Hsieh PH</b>, Lee J, Kumar S, Lin J, Rausch T, Chen Y, Ren J, Santamarina M, Höps W, Ashraf H, Chuang NT, Yang X, Munson KM, Lewis AP, Fairley S, Tallon LJ, Clarke WE, Basile AO, Byrska-Bishop M, Corvelo A, Chaisson MJP, Chen J, Li C, Brand H, Wenger AM, Ghareghani M, Harvey WT, Raeder B, Hasenfeld P, Regier A, Abel H, Hall I, Flicek P, Stegle O, Gerstein MB, Tubio JMC, Mu Z, Li YI, Shi X, Hastie AR, Ye K, Chong Z, Sanders AD, Zody MC, Talkowski ME, Mills RE, Devine SE, Lee C, Korbel JO, Marschall T, Eichler EE. <br> <i>Science</i> eabf7117 <br>  <span class='publication-extra'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117.full.pdf'>pdf</a></span>       <span class='publication-featured'><br><b>Press: </b><a href="https://news.yahoo.com/human-genome-sequencing-rises-next-023756951.html">Yahoo! News</a> · <a href="https://finance.yahoo.com/news/sequence-64-human-genomes-genetic-diversity-195605887.html">Yahoo! Finance</a> · <a href="https://www.genomeweb.com/sequencing/haplotype-resolved-human-genomes-help-complete-picture-structural-variants#.YELuZl1Kg-Q">genomeweb</a> · <a href="https://www.genengnews.com/news/scientists-sequence-64-human-genomes-as-new-reference-for-genetic-diversity/">GEN</a></span> </td>
