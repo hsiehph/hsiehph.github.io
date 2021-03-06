@@ -4,16 +4,16 @@
 
 .page__footer {
   @include clearfix;
-  // float: left;
-  text-align: center;
+  float: left;
+//  text-align: center;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
   clear: both;
   /* sticky footer fix start */
-  position: absolute;
-  bottom: 0;
-  height: auto;
+//  position: absolute;
+//  bottom: 0;
+//  height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
   color: $muted-text-color;
@@ -21,7 +21,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  // background-color: $footer-background-color;
+  background-color: $footer-background-color;
 
   footer {
     @include clearfix;
