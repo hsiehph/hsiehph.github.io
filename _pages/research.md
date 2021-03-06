@@ -73,12 +73,12 @@ feature_row1-4:
 ---
 
 {% include feature_row id="feature_row1-1" type="left" %}
-<a name="PopGenSV"></a> 
+/* <a name="PopGenSV"></a> */
 {% include feature_row id="feature_row1-2" type="right" %}
-<a name="HumanOrigin"></a> 
+/*<a name="HumanOrigin"></a> */
 {% include feature_row id="feature_row1-3" type="left" %}
-<a name="LongReadSeq"></a> 
+/*<a name="LongReadSeq"></a> */
 {% include feature_row id="feature_row1-4" type="right" %}
 <!-- {% include feature_row id="feature_row2" type="left" %} -->
-<a name="EvoMedicine"></a> 
+/*<a name="EvoMedicine"></a> */
 <br/>
