@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research"
+title: ""
 permalink: /research/
 header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
@@ -71,6 +71,7 @@ feature_row1-4:
     btn_label3: "Adaptations in African pygmies"
     btn_class: "btn--primary"
 ---
+## Research
 
 {% include feature_row id="feature_row1-1" type="left" %}
 {% include feature_row id="feature_row1-2" type="right" %}

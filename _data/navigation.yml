@@ -1,6 +1,6 @@
 main:
-# - title: "Research"
-#   url: /research/
+ - title: "Home"
+   url: /index.html
  - title: "Research"
    url: /research/
  - title: "Publications"
