@@ -71,7 +71,7 @@ feature_row1-4:
     btn_label3: "Adaptations in African pygmies"
     btn_class: "btn--primary"
 ---
-## Research
+# Research
 
 {% include feature_row id="feature_row1-1" type="left" %}
 {% include feature_row id="feature_row1-2" type="right" %}
