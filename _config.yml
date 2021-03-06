@@ -61,6 +61,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+atom_feed:
+  hide: true
+
 author:
   name   : "PingHsun Hsieh"
   avatar : "/assets/images/PingHsunHsieh.jpg"
