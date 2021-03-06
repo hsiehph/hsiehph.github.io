@@ -1,6 +1,6 @@
 ---
-layout: single
-title: ""
+layout: splash
+title: "Research"
 permalink: /research/
 header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
