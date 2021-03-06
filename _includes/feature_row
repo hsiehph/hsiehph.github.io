@@ -48,7 +48,7 @@
           {% endif %}
 
           {% if f.text %}
-            <div class="page__content text-justify">
+            <div class="page__content">
               {{ f.text | markdownify }}
             </div>
           {% endif %}
