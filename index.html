@@ -4,9 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 classes: wide
-author_profile: false
+author_profile: true
 header: 
   image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
+  caption: "Photo credit:[James Carey](https://www.debutart.com/artist/james-carey)"
 #title: "Under construction"
 #excerpt: "Thanks for your interest. Refreshed site coming soon."
 title: ""
@@ -17,11 +18,12 @@ feature_row2:
     alt: ""
     title: ""
     excerpt : '
-#    	![Cornell Lab of Ornithology logo](/assets/images/logo-lab.png){:width="300px"}
-#		<br /><br />
 
-I am a computational biologist interested in human origins and population genomics. My research program focuses on understanding key evolutionary processes, such as hybridization and selection, that lead to genetic novelties in human evolution. I am particularly interested in the evolution and fitness consequences of structural variants and building evolutionary applications for biomedical research. My research involves using long-read sequencing, designing statistical methods, and analyzing large multi-omics and simulated datasets.<br/><br/>Currently, I am a NIH K99/R00 fellow with Dr. Evan Eichler at the University of Washington. I received my Ph.D. in Ecology and Evolutionary Biology from the University of Arizona, working in the laboratories of Michael Hammer and Ryan Gutenkunst, with a strong emphasis in human evolution and population genetics. I received my M.S. in Computational Biology from the University of Southern California, CA. I also have a M.S. in Electrical Engineering (National Taiwan University, Taiwan) and a B.S. in Computer Engineering (National Central University, Taiwan). <br/><br/>My full academic [CV](/assets/docs/CV_PingHsunHsieh202103.pdf) is available.
-#    	I am a Postdoctoral Associate at the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/staff/benjamin-van-doren/).
+I am a computational biologist interested in human origins and population genomics. My research program focuses on understanding key evolutionary processes, such as hybridization and selection, that lead to genetic novelties in human evolution. I am particularly interested in the evolution and fitness consequences of structural variants and building evolutionary applications for biomedical research. My research involves using long-read sequencing, designing statistical methods, and analyzing large multi-omics and simulated datasets.<br/><br/>
+
+Currently, I am a NIH K99/R00 fellow with Dr. Evan Eichler at the University of Washington. I received my Ph.D. in Ecology and Evolutionary Biology from the University of Arizona, working in the laboratories of Michael Hammer and Ryan Gutenkunst, with a strong emphasis in human evolution and population genetics. I received my M.S. in Computational Biology from the University of Southern California, CA. I also have a M.S. in Electrical Engineering (National Taiwan University, Taiwan) and a B.S. in Computer Engineering (National Central University, Taiwan). <br/><br/>
+
+My full academic [CV](/assets/docs/CV_PingHsunHsieh202103.pdf) is available.
 		'
 #    url: "/research/"
 #    btn_label: "Latest Research"
@@ -29,31 +31,5 @@ I am a computational biologist interested in human origins and population genomi
     
 ---
 
-{% include feature_row id="feature_row2" type="left" %}
+{%include feature_row id="feature_row2" type="left" %}
 
-<!-- <div id="news" style="float:left;width:55%;margin:0 1.5%"> -->
-	{% for category in site.categories %}
-		{% if category[0]=='News' %}
-<!-- 		  <h3>{{ category[0] }}</h3> -->
-		  <h3 style="text-align:center">News and Updates</h3> 
-		  <ul>
-			{% for post in category[1] limit:4 %}
-				  {% include archive-single.html type="grid" %}
-		<!--       <li><a href="{{ post.url }}">{{ post.title }}</a></li> -->
-			{% endfor %}
-		  </ul>
-		{% endif %}
-	{% endfor %}
-<!-- </div> -->
-
-<!-- 
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div id="twitter" style="float:right;width:35%;margin:0 1.5%">
-	<a class="twitter-timeline"
-	  href="https://twitter.com/phhBenson"
-	  data-height="700">
-	Tweets by @bvdbirds
-	</a>
-</div>
- -->

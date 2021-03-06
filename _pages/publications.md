@@ -12,7 +12,7 @@ header:
 18 journal articles · [770](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [10](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
 <br><small>Last updated 05 Mar 2021</small>
 <table class="publication-table">
-<caption>2020</caption>
+<caption>2021</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> altmetric_badge </th>
@@ -21,33 +21,29 @@ header:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1126/science.abf7117' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='haplotype_resolved_diverse_human_genomes_and_integrated_analysis_of_structural_variation'></a><span class='pub-title'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117'>Haplotype-resolved diverse human genomes and integrated analysis of structural variation</a></span><br> Ebert P, Audano PA, Zhu Q, Rodriguez-Martin B, Porubsky D, Bonder MJ, Sulovari A, Ebler J, Zhou W, Mari RS, Yilmaz F, Zhao X, <b>Hsieh PH</b>, Lee J, Kumar S, Lin J, Rausch T, Chen Y, Ren J, Santamarina M, Höps W, Ashraf H, Chuang NT, Yang X, Munson KM, Lewis AP, Fairley S, Tallon LJ, Clarke WE, Basile AO, Byrska-Bishop M, Corvelo A, Chaisson MJP, Chen J, Li C, Brand H, Wenger AM, Ghareghani M, Harvey WT, Raeder B, Hasenfeld P, Regier A, Abel H, Hall I, Flicek P, Stegle O, Gerstein MB, Tubio JMC, Mu Z, Li YI, Shi X, Hastie AR, Ye K, Chong Z, Sanders AD, Zody MC, Talkowski ME, Mills RE, Devine SE, Lee C, Korbel JO, Marschall T, Eichler EE. <br> <i>Science</i> eabf7117 <br>  <span class='publication-extra'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117.full.pdf'>pdf</a></span>       <span class='publication-featured'><br><b>Press: </b><a href="https://news.yahoo.com/human-genome-sequencing-rises-next-023756951.html">Yahoo! News</a> · <a href="https://finance.yahoo.com/news/sequence-64-human-genomes-genetic-diversity-195605887.html">Yahoo! Finance</a> · <a href="https://www.genomeweb.com/sequencing/haplotype-resolved-human-genomes-help-complete-picture-structural-variants#.YELuZl1Kg-Q">genomeweb</a> · <a href="https://www.genengnews.com/news/scientists-sequence-64-human-genomes-as-new-reference-for-genetic-diversity/">GEN</a></span> </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.21203/rs.3.rs-77798/v1' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='opposing_selective_forces_operating_on_human_specific_duplicated_tcaf_genes_in_neanderthals_and_humans'></a><span class='pub-title'><a href='https://www.researchsquare.com/article/rs-77798/v1'>Opposing selective forces operating on human-specific duplicated TCAF genes in Neanderthals and humans</a></span><br> <b>Hsieh PH</b>, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. <br> <i>Research Square</i> <br>  <span class='publication-extra'><a href='https://www.researchsquare.com/article/rs-77798/v1.pdf'>pdf</a></span> </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.09.08.285395' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='the_structure_function_and_evolution_of_a_complete_human_chromosome_8'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.abstract'>The structure, function, and evolution of a complete human chromosome 8</a></span><br> Logsdon GA, Vollger MR, <b>Hsieh PH</b>, Mao Y, Liskovykh MA, Koren S, Nurk S, Mercuri L, Dishuck PC, Rhie A, de Lima LG, Dvorkina T, Porubsky D, Mikheenko A, Bzikadze AV, Kremitzki M, Graves-Lindsay TA, Jain C, Hoekzema K, Murali SC, Munson KM, Baker C, Sorensen M, Lewis AM, Surti U, Gerton JL, Larionov V, Ventura M, Miga KH, Phillippy AM, Eichler EE. <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.full.pdf'>pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.08.18.255562' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='a_human_specific_structural_variation_at_the_znf558_locus_controls_a_gene_regulatory_network_during_forebrain_development'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1'>A human-specific structural variation at the ZNF558 locus controls a gene regulatory network during forebrain development</a></span><br> Johansson PA, Brattås PL, Douse CH, <b>Hsieh PH</b>, Pontis J, Grassi D, Garza R, Jönsson ME, Atacho DAM, Pircs K, Eren F, Sharma Y, Johansson J, Trono D, Eichler EE, Jakobsson J. <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1.full.pdf'>pdf</a></span> </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1038/s41588-020-0646-x' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='recurrent_inversion_toggling_and_great_ape_genome_evolution'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41588-020-0646-x'>Recurrent inversion toggling and great ape genome evolution</a></span><br> Porubsky D, Sanders AD, Höps W, <b>Hsieh PH</b>, Sulovari A, Sorensen M, Murali SC, Gordon D, Cantsilieris S, Pollen AA, Antonacci F, Marschall T, Korbel JO, Eichler EE <br> <i>Nature Genetics</i> 52:849-858 <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41588-020-0646-x.pdf'>pdf</a></span> </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.02.10.932327' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='recent_ultra_rare_inherited_mutations_identify_novel_autism_candidate_risk_genes'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1'>Recent ultra-rare inherited mutations identify novel autism candidate risk genes</a></span><br> Wilfert AB, Turner TN, Murali SC, <b>Hsieh PH</b>, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1.full.pdf'>pdf</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1126/science.abf7117' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='haplotype_resolved_diverse_human_genomes_and_integrated_analysis_of_structural_variation'></a><span class='pub-title'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117'>Haplotype-resolved diverse human genomes and integrated analysis of structural variation</a></span><br> Ebert P, Audano PA, Zhu Q, Rodriguez-Martin B, Porubsky D, Bonder MJ, Sulovari A, Ebler J, Zhou W, Mari RS, Yilmaz F, Zhao X, <b>Hsieh PH</b>, Lee J, Kumar S, Lin J, Rausch T, Chen Y, Ren J, Santamarina M, Höps W, Ashraf H, Chuang NT, Yang X, Munson KM, Lewis AP, Fairley S, Tallon LJ, Clarke WE, Basile AO, Byrska-Bishop M, Corvelo A, Chaisson MJP, Chen J, Li C, Brand H, Wenger AM, Ghareghani M, Harvey WT, Raeder B, Hasenfeld P, Regier A, Abel H, Hall I, Flicek P, Stegle O, Gerstein MB, Tubio JMC, Mu Z, Li YI, Shi X, Hastie AR, Ye K, Chong Z, Sanders AD, Zody MC, Talkowski ME, Mills RE, Devine SE, Lee C, Korbel JO, Marschall T, Eichler EE. <br> <i>Science</i> eabf7117 <br>  <span class='publication-extra'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117.full.pdf'>pdf</a></span>       <span class='publication-featured'><br><b>Press: </b><a href="https://news.yahoo.com/human-genome-sequencing-rises-next-023756951.html">Yahoo! News</a> · <a href="https://finance.yahoo.com/news/sequence-64-human-genomes-genetic-diversity-195605887.html">Yahoo! Finance</a> · <a href="https://www.genomeweb.com/sequencing/haplotype-resolved-human-genomes-help-complete-picture-structural-variants#.YELuZl1Kg-Q">genomeweb</a> · <a href="https://www.genengnews.com/news/scientists-sequence-64-human-genomes-as-new-reference-for-genetic-diversity/">GEN</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.09.08.285395' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='the_structure_function_and_evolution_of_a_complete_human_chromosome_8'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.abstract'>The structure, function, and evolution of a complete human chromosome 8</a></span><br> Logsdon GA, Vollger MR, <b>Hsieh PH</b>, Mao Y, Liskovykh MA, Koren S, Nurk S, Mercuri L, Dishuck PC, Rhie A, de Lima LG, Dvorkina T, Porubsky D, Mikheenko A, Bzikadze AV, Kremitzki M, Graves-Lindsay TA, Jain C, Hoekzema K, Murali SC, Munson KM, Baker C, Sorensen M, Lewis AM, Surti U, Gerton JL, Larionov V, Ventura M, Miga KH, Phillippy AM, Eichler EE. <br> <i>Nature (Accepted)</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.full.pdf'>pdf</a></span> </td>
   </tr>
 </tbody>
 </table>
 <table class="publication-table">
-<caption>2021</caption>
+<caption>2020</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> altmetric_badge </th>
@@ -58,6 +54,10 @@ header:
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1186/s13059-020-02074-4' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='an_evolutionary_driver_of_interspersed_segmental_duplications_in_primates'></a><span class='pub-title'><a href='https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02074-4'>An evolutionary driver of interspersed segmental duplications in primates</a></span><br> Cantsilieris S, Sunkin SM, Johnson ME, Anaclerio F, Huddleston J, Baker C, Dougherty ML, Underwood J, Sulovari A, <b>Hsieh PH</b>, Yafei M, Catacchio CR, Malig M, Welch A, Sorensen M, Munson K, Jiang W, Ventura M, Lamb BT, Conlon RA, Eichler EE <br> <i>Genome Biology</i> 21, 202 <br>  <span class='publication-extra'><a href='https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-020-02074-4.pdf'>pdf</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1038/s41588-020-0646-x' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='recurrent_inversion_toggling_and_great_ape_genome_evolution'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41588-020-0646-x'>Recurrent inversion toggling and great ape genome evolution</a></span><br> Porubsky D, Sanders AD, Höps W, <b>Hsieh PH</b>, Sulovari A, Sorensen M, Murali SC, Gordon D, Cantsilieris S, Pollen AA, Antonacci F, Marschall T, Korbel JO, Eichler EE <br> <i>Nature Genetics</i> 52:849-858 <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41588-020-0646-x.pdf'>pdf</a></span> </td>
   </tr>
 </tbody>
 </table>
@@ -139,9 +139,20 @@ header:
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1093/molbev/msv255' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='computationally_efficient_composite_likelihood_statistics_for_population_genetic_inference'></a><span class='pub-title'><a href='https://academic.oup.com/mbe/article/33/2/591/2579696'>Computationally efficient composite likelihood statistics for population genetic inference</a></span><br> Coffman AJ, <b>Hsieh PH</b>, Gravel S, Gutenkunst RN. <br> <i>Molecular Biology and Evolution</i> 33(2):591-3 <br>  <span class='publication-extra'><a href='https://academic.oup.com/mbe/article-pdf/33/2/591/24366624/msv255.pdf'>pdf</a></span> </td>
   </tr>
+</tbody>
+</table>
+<table class="publication-table">
+<caption>2015</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> altmetric_badge </th>
+   <th style="text-align:left;"> citation </th>
+  </tr>
+ </thead>
+<tbody>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1002/ece3.1865' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='assessing_models_of_speciation_under_different_biological_scenarios_an_empirical_study_using_multi_locus_and_rna_seq_analyses'></a><span class='pub-title'><a href='https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1865'>Assessing models of speciation under different biological scenarios; an empirical study using multi-locus and RNA-seq analyses</a></span><br> Edwards T, Tollis M, <b>Hsieh PH</b>, Liu Z, Kusumi K, Culver M, Murphy RW. <br> <i>Ecology and Evolution</i> 6(2): 379–396 <br>  <span class='publication-extra'><a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729248/pdf/ECE3-6-379.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='assessing_models_of_speciation_under_different_biological_scenarios_an_empirical_study_using_multi_locus_and_rna_seq_analyses'></a><span class='pub-title'><a href='https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1865'>Assessing models of speciation under different biological scenarios; an empirical study using multi-locus and RNA-seq analyses</a></span><br> Edwards T, Tollis M, <b>Hsieh PH</b>, Liu Z, Kusumi K, Culver M, Murphy RW. <br> <i>Ecology and Evolution</i> 6(2):379–396 <br>  <span class='publication-extra'><a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4729248/pdf/ECE3-6-379.pdf'>pdf</a></span> </td>
   </tr>
 </tbody>
 </table>
@@ -156,7 +167,7 @@ header:
 <tbody>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1109/DFTVS.2004.1347837' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='an_xor_based_reed_solomon_algorithm_for_advanced_raid_systems'></a><span class='pub-title'><a href='https://ieeexplore.ieee.org/abstract/document/1347837'>An XOR-based Reed-Solomon Algorithm for Advanced RAID Systems</a></span><br> <b>Hsieh PH</b>, Chen IY, Lin YT, Kuo SY. <br> <i>Proceedings of the 19th IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems</i> <br>  <span class='publication-extra'><a href='https://www.researchgate.net/profile/Sy-Yen-Kuo/publication/4099018_An_XOR_based_Reed-Solomon_algorithm_for_advanced_RAID_systems/links/5781d1e708ae5f367d394081/An-XOR-based-Reed-Solomon-algorithm-for-advanced-RAID-systems.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='an_xor_based_reed_solomon_algorithm_for_advanced_raid_systems'></a><span class='pub-title'><a href='https://ieeexplore.ieee.org/abstract/document/1347837'>An XOR-based Reed-Solomon Algorithm for Advanced RAID Systems</a></span><br> <b>Hsieh PH</b>, Chen IY, Lin YT, Kuo SY. <br> <i>Proceedings of the 19th IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems</i> DFT2004:165-172 <br>  <span class='publication-extra'><a href='https://www.researchgate.net/profile/Sy-Yen-Kuo/publication/4099018_An_XOR_based_Reed-Solomon_algorithm_for_advanced_RAID_systems/links/5781d1e708ae5f367d394081/An-XOR-based-Reed-Solomon-algorithm-for-advanced-RAID-systems.pdf'>pdf</a></span> </td>
   </tr>
 </tbody>
 </table>
