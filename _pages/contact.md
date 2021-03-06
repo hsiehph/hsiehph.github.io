@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "Contact me"
 layout: single
 classes: wide
 header:
