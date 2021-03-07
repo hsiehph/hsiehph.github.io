@@ -1,12 +1,13 @@
 ---
 permalink: /contact/
-title: "Contact me"
+title: ""
 layout: single
 classes: wide
 header:
   image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
   caption: "Photo credit:[James Carey](https://www.debutart.com/artist/james-carey)"
 ---
+<h1 style="color:black;font-size:40px;">Contact me</h1> 
 
 Please reach out with any questions about my research or interest in collaborations.
 
