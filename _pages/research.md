@@ -51,7 +51,8 @@ feature_row1-4:
 "
 
 ---
-# Research <br/>
+# Research
+<br/>
 {% include feature_row id="feature_row1-1" type="left" %}
 {% include feature_row id="feature_row1-2" type="right" %}
 {% include feature_row id="feature_row1-3" type="left" %}
