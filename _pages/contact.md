@@ -9,7 +9,7 @@ header:
 ---
 <h1 style="color:black;font-size:40px;">Contact me</h1> 
 
-<p style="color:black;font-size:32px;"> 
+<p style="color:black;font-size:24px;"> 
 Please reach out with any questions about my research or interest in collaborations.
 
 PingHsun Hsieh, Ph.D.<br>
