@@ -9,8 +9,7 @@ header:
   caption: "Photo credit:[James Carey](https://www.debutart.com/artist/james-carey)"
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-
-<h1 style="color:black;font-size:32px;">Publications</h1> 
+<h1 style="color:black;font-size:40px;">Publications</h1> 
 
 17 journal articles · [770](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [10](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
 <br>Last updated 05 Mar 2021
