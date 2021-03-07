@@ -6,7 +6,7 @@ permalink: /research/
 header:
     overlay_image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
     caption: "Photo credit: [James Carey](https://https://www.debutart.com/artist/james-carey)"
-title: ""
+title: "Research"
 
 feature_row1-1:
   - image_path: /assets/images/Fig2_SummaryFigure_aax2083.v4.copy.png
@@ -51,8 +51,6 @@ feature_row1-4:
 "
 
 ---
-# Research
-<br/>
 {% include feature_row id="feature_row1-1" type="left" %}
 {% include feature_row id="feature_row1-2" type="right" %}
 {% include feature_row id="feature_row1-3" type="left" %}

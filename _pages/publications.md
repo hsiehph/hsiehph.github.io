@@ -10,8 +10,8 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-<p style="color:black;font-size:22px;"> 17 journal articles · </p> [770](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) <p style="color:black;font-size:22px;"> citations · h-index: </p> [10](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
-Last updated 05 Mar 2021
+17 journal articles · [770](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [10](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
+<br>Last updated 05 Mar 2021
 <table class="publication-table">
 <caption>Preprints</caption>
  <thead>
