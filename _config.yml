@@ -64,6 +64,18 @@ plugins:
 atom_feed:
   hide: true
 
+# Analytics
+analytics:
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : #UA-147237792-1
+    anonymize_ip         : #false # false (default)
+    optimize_id          : #GTM-WV93XGT
+    allow_google_signals : #false
+
+
+
+
 author:
   name   : "PingHsun Hsieh"
   avatar : "/assets/images/PingHsunHsieh.jpg"

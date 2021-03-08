@@ -47,7 +47,7 @@ feature_row1-4:
 
     <br/>[Evolutionary Medicine - Autism](https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1.full){: .btn .btn--info .btn--small}
     <br/>[Human Evolution in Cold Environments](https://academic.oup.com/mbe/article/34/11/2913/4098817?login=true){: .btn .btn--info .btn--small}
-    <br/>[Adaptations in African pygmies](https://genome.cshlp.org/content/26/3/279.short){: .btn .btn--info .btn--small}
+    <br/>[Adaptations in African Pygmies](https://genome.cshlp.org/content/26/3/279.short){: .btn .btn--info .btn--small}
 "
 
 ---
