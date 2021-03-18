@@ -26,7 +26,7 @@ feature_row1-2:
     <br/>[Human Origin in Africa](https://genome.cshlp.org/content/26/3/291.short){: .btn .btn--info .btn--small}
     <br/>[Human-specific Expansion of Thermoregulatory Genes](https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf){: .btn .btn--info .btn--small}
     <br/>[Human Evolution in Cold Environments](https://academic.oup.com/mbe/article/34/11/2913/4098817?login=true){: .btn .btn--info .btn--small}
-    <br/>[Evolution and Speciation of Deseat Tortoise](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1865){: .btn .btn--info .btn--small}
+    <br/>[Evolution and Speciation of Desert Tortoise](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1865){: .btn .btn--info .btn--small}
 "
 
 feature_row1-3:
