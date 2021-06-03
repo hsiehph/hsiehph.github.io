@@ -11,10 +11,10 @@ header:
 <h1 style="color:black;font-size:40px;">Publications</h1> 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-17 journal articles · [770](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [10](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
-<br>Last updated 05 Mar 2021
+18 journal articles · [905](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [12](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
+<br><small>Last updated 03 Jun 2021</small>
 <table class="publication-table">
-<caption>Preprints</caption>
+<caption>2022</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> altmetric_badge </th>
@@ -46,12 +46,16 @@ header:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1126/science.abf7117' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='haplotype_resolved_diverse_human_genomes_and_integrated_analysis_of_structural_variation'></a><span class='pub-title'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117'>Haplotype-resolved diverse human genomes and integrated analysis of structural variation</a></span><br> Ebert P, Audano PA, Zhu Q, Rodriguez-Martin B, Porubsky D, Bonder MJ, Sulovari A, Ebler J, Zhou W, Mari RS, Yilmaz F, Zhao X, <b>Hsieh PH</b>, Lee J, Kumar S, Lin J, Rausch T, Chen Y, Ren J, Santamarina M, Höps W, Ashraf H, Chuang NT, Yang X, Munson KM, Lewis AP, Fairley S, Tallon LJ, Clarke WE, Basile AO, Byrska-Bishop M, Corvelo A, Chaisson MJP, Chen J, Li C, Brand H, Wenger AM, Ghareghani M, Harvey WT, Raeder B, Hasenfeld P, Regier A, Abel H, Hall I, Flicek P, Stegle O, Gerstein MB, Tubio JMC, Mu Z, Li YI, Shi X, Hastie AR, Ye K, Chong Z, Sanders AD, Zody MC, Talkowski ME, Mills RE, Devine SE, Lee C, Korbel JO, Marschall T, Eichler EE. <br> <i>Science</i> eabf7117 <br>  <span class='publication-extra'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117.full.pdf'>pdf</a></span>       <span class='publication-featured'><br><b>Press: </b><a href="https://news.yahoo.com/human-genome-sequencing-rises-next-023756951.html">Yahoo! News</a> · <a href="https://finance.yahoo.com/news/sequence-64-human-genomes-genetic-diversity-195605887.html">Yahoo! Finance</a> · <a href="https://www.genomeweb.com/sequencing/haplotype-resolved-human-genomes-help-complete-picture-structural-variants#.YELuZl1Kg-Q">genomeweb</a> · <a href="https://www.genengnews.com/news/scientists-sequence-64-human-genomes-as-new-reference-for-genetic-diversity/">GEN</a></span> </td>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1038/s41586-021-03519-x' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='a_high_quality_bonobo_genome_refines_the_analysis_of_hominid_evolution'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41586-021-03519-x'>A high-quality bonobo genome refines the analysis of hominid evolution</a></span><br> Mao Y, Catacchio CR, Hillier LW, Porubsky D, Li R, Sulovari A, Fernandes JD, Montinaro F, Gordon DS, Storer JM, Haukness M, Fiddes IT, Murali SC, Dishuck PC, <b>Hsieh PH</b>, Harvey WT, Audano PA, Mercuri L, Piccolo I, Antonacci F, Munson KM, Lewis AP, Baker C, Underwood JG, Hoekzema K, Huang TH, Sorensen M, Walker JA, Hoffman J, Thibaud-Nissen F, Salama SR, Pang AWC, Lee J, Hastie AR, Paten B, Batzer MA, Diekhans M, Ventura M, Eichler EE. <br> <i>Nature</i> <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41586-021-03519-x.pdf'>pdf</a></span> </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.09.08.285395' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='the_structure_function_and_evolution_of_a_complete_human_chromosome_8'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.abstract'>The structure, function, and evolution of a complete human chromosome 8</a></span><br> Logsdon GA, Vollger MR, <b>Hsieh PH</b>, Mao Y, Liskovykh MA, Koren S, Nurk S, Mercuri L, Dishuck PC, Rhie A, de Lima LG, Dvorkina T, Porubsky D, Mikheenko A, Bzikadze AV, Kremitzki M, Graves-Lindsay TA, Jain C, Hoekzema K, Murali SC, Munson KM, Baker C, Sorensen M, Lewis AM, Surti U, Gerton JL, Larionov V, Ventura M, Miga KH, Phillippy AM, Eichler EE. <br> <i>Nature (Accepted)</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.09.08.285395v1.full.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1038/s41586-021-03420-7' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='the_structure_function_and_evolution_of_a_complete_human_chromosome_8'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41586-021-03420-7'>The structure, function, and evolution of a complete human chromosome 8</a></span><br> Logsdon GA, Vollger MR, <b>Hsieh PH</b>, Mao Y, Liskovykh MA, Koren S, Nurk S, Mercuri L, Dishuck PC, Rhie A, de Lima LG, Dvorkina T, Porubsky D, Mikheenko A, Bzikadze AV, Kremitzki M, Graves-Lindsay TA, Jain C, Hoekzema K, Murali SC, Munson KM, Baker C, Sorensen M, Lewis AM, Surti U, Gerton JL, Larionov V, Ventura M, Miga KH, Phillippy AM, Eichler EE. <br> <i>Nature</i> <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41586-021-03420-7.pdf'>pdf</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1126/science.abf7117' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='haplotype_resolved_diverse_human_genomes_and_integrated_analysis_of_structural_variation'></a><span class='pub-title'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117'>Haplotype-resolved diverse human genomes and integrated analysis of structural variation</a></span><br> Ebert P, Audano PA, Zhu Q, Rodriguez-Martin B, Porubsky D, Bonder MJ, Sulovari A, Ebler J, Zhou W, Mari RS, Yilmaz F, Zhao X, <b>Hsieh PH</b>, Lee J, Kumar S, Lin J, Rausch T, Chen Y, Ren J, Santamarina M, Höps W, Ashraf H, Chuang NT, Yang X, Munson KM, Lewis AP, Fairley S, Tallon LJ, Clarke WE, Basile AO, Byrska-Bishop M, Corvelo A, Chaisson MJP, Chen J, Li C, Brand H, Wenger AM, Ghareghani M, Harvey WT, Raeder B, Hasenfeld P, Regier A, Abel H, Hall I, Flicek P, Stegle O, Gerstein MB, Tubio JMC, Mu Z, Li YI, Shi X, Hastie AR, Ye K, Chong Z, Sanders AD, Zody MC, Talkowski ME, Mills RE, Devine SE, Lee C, Korbel JO, Marschall T, Eichler EE. <br> <i>Science</i> eabf7117 <br>  <span class='publication-extra'><a href='https://science.sciencemag.org/content/early/2021/02/24/science.abf7117.full.pdf'>pdf</a></span>       <span class='publication-featured'><br><b>Press: </b><a href="https://news.yahoo.com/human-genome-sequencing-rises-next-023756951.html">Yahoo! News</a> · <a href="https://finance.yahoo.com/news/sequence-64-human-genomes-genetic-diversity-195605887.html">Yahoo! Finance</a> · <a href="https://www.genomeweb.com/sequencing/haplotype-resolved-human-genomes-help-complete-picture-structural-variants#.YELuZl1Kg-Q">genomeweb</a> · <a href="https://www.genengnews.com/news/scientists-sequence-64-human-genomes-as-new-reference-for-genetic-diversity/">GEN</a></span> </td>
   </tr>
 </tbody>
 </table>
@@ -184,4 +188,3 @@ header:
   </tr>
 </tbody>
 </table>
-<br/><br/>
