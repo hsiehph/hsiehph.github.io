@@ -2,17 +2,15 @@
 layout: single
 permalink: /publications/
 author_profile: true
-title: ""
+title: "Publications"
 classes: wide
 header:
-  image: /assets/images/101516_hybrids_opener_free.JamesCarey.v5.png
-  caption: "Photo credit:[James Carey](https://www.debutart.com/artist/james-carey)"
+  image: /assets/images/101516_hybrids_opener_free.JamesCarey.v2.png
 ---
-<h1 style="color:black;font-size:40px;">Publications</h1> 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-18 journal articles · [905](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [12](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
-<br><small>Last updated 03 Jun 2021</small>
+18 journal articles · [1022](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [12](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
+<br><small>Last updated 29 Aug 2021</small>
 <table class="publication-table">
 <caption>2022</caption>
  <thead>
@@ -23,16 +21,8 @@ header:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.21203/rs.3.rs-77798/v1' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='opposing_selective_forces_operating_on_human_specific_duplicated_tcaf_genes_in_neanderthals_and_humans'></a><span class='pub-title'><a href='https://www.researchsquare.com/article/rs-77798/v1'>Opposing selective forces operating on human-specific duplicated TCAF genes in Neanderthals and humans</a></span><br> <b>Hsieh PH</b>, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. <br> <i>In Review at Nature Communications. Preprint on Research Square</i> <br>  <span class='publication-extra'><a href='https://www.researchsquare.com/article/rs-77798/v1.pdf'>pdf</a></span> </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.08.18.255562' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='a_human_specific_structural_variation_at_the_znf558_locus_controls_a_gene_regulatory_network_during_forebrain_development'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1'>A human-specific structural variation at the ZNF558 locus controls a gene regulatory network during forebrain development</a></span><br> Johansson PA, Brattås PL, Douse CH, <b>Hsieh PH</b>, Pontis J, Grassi D, Garza R, Jönsson ME, Atacho DAM, Pircs K, Eren F, Sharma Y, Johansson J, Trono D, Eichler EE, Jakobsson J. <br> <i>In Revision (Cell Stem Cell). Preprint on bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1.full.pdf'>pdf</a></span> </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.02.10.932327' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='recent_ultra_rare_inherited_mutations_identify_novel_autism_candidate_risk_genes'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1'>Recent ultra-rare inherited mutations identify novel autism candidate risk genes</a></span><br> Wilfert AB, Turner TN, Murali SC, <b>Hsieh PH</b>, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium <br> <i>In Review at Nature Genetics. Preprint on bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.02.10.932327v1.full.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='a_human_specific_structural_variation_at_the_znf558_locus_controls_a_gene_regulatory_network_during_forebrain_development'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1'>A human-specific structural variation at the ZNF558 locus controls a gene regulatory network during forebrain development</a></span><br> Johansson PA, Brattås PL, Douse CH, <b>Hsieh PH</b>, Pontis J, Grassi D, Garza R, Jönsson ME, Atacho DAM, Pircs K, Eren F, Sharma Y, Johansson J, Trono D, Eichler EE, Jakobsson J. <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1.full.pdf'>pdf</a></span> </td>
   </tr>
 </tbody>
 </table>
@@ -45,6 +35,14 @@ header:
   </tr>
  </thead>
 <tbody>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.21203/rs.3.rs-77798/v1' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='evidence_for_opposing_selective_forces_operating_on_human_specific_duplicated_tcaf_genes_in_neanderthals_and_humans'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41467-021-25435-4'>Evidence for opposing selective forces operating on human-specific duplicated TCAF genes in Neanderthals and humans</a></span><br> <b>Hsieh PH</b>, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. <br> <i>Nature Communications</i> <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41467-021-25435-4.pdf'>pdf</a></span> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='doi.org/10.1038/s41588-021-00899-8' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='recent_ultra_rare_inherited_mutations_identify_novel_autism_candidate_risk_genes'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41588-021-00899-8'>Recent ultra-rare inherited mutations identify novel autism candidate risk genes</a></span><br> Wilfert AB, Turner TN, Murali SC, <b>Hsieh PH</b>, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41588-021-00899-8.pdf'>pdf</a></span> </td>
+  </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1038/s41586-021-03519-x' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='a_high_quality_bonobo_genome_refines_the_analysis_of_hominid_evolution'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41586-021-03519-x'>A high-quality bonobo genome refines the analysis of hominid evolution</a></span><br> Mao Y, Catacchio CR, Hillier LW, Porubsky D, Li R, Sulovari A, Fernandes JD, Montinaro F, Gordon DS, Storer JM, Haukness M, Fiddes IT, Murali SC, Dishuck PC, <b>Hsieh PH</b>, Harvey WT, Audano PA, Mercuri L, Piccolo I, Antonacci F, Munson KM, Lewis AP, Baker C, Underwood JG, Hoekzema K, Huang TH, Sorensen M, Walker JA, Hoffman J, Thibaud-Nissen F, Salama SR, Pang AWC, Lee J, Hastie AR, Paten B, Batzer MA, Diekhans M, Ventura M, Eichler EE. <br> <i>Nature</i> <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41586-021-03519-x.pdf'>pdf</a></span> </td>
