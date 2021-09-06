@@ -9,10 +9,10 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-18 journal articles · [1022](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [12](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
-<br><small>Last updated 29 Aug 2021</small>
+18 journal articles · [1035](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [12](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
+<br><small>Last updated 05 Sep 2021</small>
 <table class="publication-table">
-<caption>2022</caption>
+<caption>Preprint</caption>
  <thead>
   <tr>
    <th style="text-align:left;"> altmetric_badge </th>
@@ -41,7 +41,7 @@ header:
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='doi.org/10.1038/s41588-021-00899-8' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='recent_ultra_rare_inherited_mutations_identify_novel_autism_candidate_risk_genes'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41588-021-00899-8'>Recent ultra-rare inherited mutations identify novel autism candidate risk genes</a></span><br> Wilfert AB, Turner TN, Murali SC, <b>Hsieh PH</b>, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41588-021-00899-8.pdf'>pdf</a></span> </td>
+   <td style="text-align:left;"> <a class='anchor' id='recent_ultra_rare_inherited_mutations_identify_novel_autism_candidate_risk_genes'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41588-021-00899-8'>Recent ultra-rare inherited mutations identify novel autism candidate risk genes</a></span><br> Wilfert AB, Turner TN, Murali SC, <b>Hsieh PH</b>, Sulovari A, Wang T, Coe BP, Guo H, Hoekzema K, Bakken TE, Winterkorn LH, Evani US, Byrska-Bishop M, Earl RK, Bernier RA, Zody MC, Eichler EE, SPARK Consortium <br> <i>Nature Genetics</i> <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41588-021-00899-8.pdf'>pdf</a></span> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1038/s41586-021-03519-x' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
