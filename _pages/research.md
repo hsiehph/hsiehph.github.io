@@ -24,7 +24,7 @@ feature_row1-2:
     title: "Learning Evolution using Statistical Modeling"
     excerpt: "DNA variation data record useful information about the evolution of organisms. I design and apply quantitative and statistical methods to reconstruct the evolutionary history in human and nonhuman primates as well as other organisms. Understanding evolution is a critical step towards understanding the biological world that we live in and helps us to understand the past and predict the future.
     <br/>[Human Origin in Africa](https://genome.cshlp.org/content/26/3/291.short){: .btn .btn--info .btn--small}
-    <br/>[Human-specific Expansion of Thermoregulatory Genes](https://assets.researchsquare.com/files/rs-77798/v1_stamped.pdf){: .btn .btn--info .btn--small}
+    <br/>[Human-specific Expansion of Thermoregulatory Genes](https://www.nature.com/articles/s41467-021-25435-4.pdf){: .btn .btn--info .btn--small}
     <br/>[Human Evolution in Cold Environments](https://academic.oup.com/mbe/article/34/11/2913/4098817?login=true){: .btn .btn--info .btn--small}
     <br/>[Evolution and Speciation of Desert Tortoise](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1865){: .btn .btn--info .btn--small}
 "
