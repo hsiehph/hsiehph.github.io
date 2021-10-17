@@ -9,8 +9,23 @@ header:
 ---
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-18 journal articles · [1091](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [12](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
-<br><small>Last updated 16 Oct 2021</small>
+18 journal articles · [1035](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>) citations · h-index: [12](https://scholar.google.com/citations?user=CvMzX6AAAAAJ&hl=en>)
+<br><small>Last updated 05 Sep 2021</small>
+<table class="publication-table">
+<caption>Preprint</caption>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> altmetric_badge </th>
+   <th style="text-align:left;"> citation </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.1101/2020.08.18.255562' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
+   <td style="text-align:left;"> <a class='anchor' id='a_human_specific_structural_variation_at_the_znf558_locus_controls_a_gene_regulatory_network_during_forebrain_development'></a><span class='pub-title'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1'>A human-specific structural variation at the ZNF558 locus controls a gene regulatory network during forebrain development</a></span><br> Johansson PA, Brattås PL, Douse CH, <b>Hsieh PH</b>, Pontis J, Grassi D, Garza R, Jönsson ME, Atacho DAM, Pircs K, Eren F, Sharma Y, Johansson J, Trono D, Eichler EE, Jakobsson J. <br> <i>bioRxiv</i> <br>  <span class='publication-extra'><a href='https://www.biorxiv.org/content/10.1101/2020.08.18.255562v1.full.pdf'>pdf</a></span> </td>
+  </tr>
+</tbody>
+</table>
 <table class="publication-table">
 <caption>2021</caption>
  <thead>
@@ -20,10 +35,6 @@ header:
   </tr>
  </thead>
 <tbody>
-  <tr>
-   <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='doi.org/10.1016/j.stem.2021.09.008' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
-   <td style="text-align:left;"> <a class='anchor' id='a_cis_acting_structural_variation_at_the_znf558_locus_controls_a_gene_regulatory_network_in_human_brain_development'></a><span class='pub-title'><a href='https://www.sciencedirect.com/science/article/pii/S1934590921003842'>A cis-acting structural variation at the ZNF558 locus controls a gene regulatory network in human brain development</a></span><br> Johansson PA, Brattås PL, Douse CH, <b>Hsieh PH</b>, Pontis J, Grassi D, Garza R, Jönsson ME, Atacho DAM, Pircs K, Eren F, Sharma Y, Johansson J, Trono D, Eichler EE, Jakobsson J. <br> <i>Cell Stem Cell</i> <br>  <span class='publication-extra'><a href='https://reader.elsevier.com/reader/sd/pii/S1934590921003842?token=6E73637B82E96A5279E9A22DE63E7BBC53E010A9C2E1585D53096C4269FCAB0CF32DC7E990B3BD736D5A8204A8C55AAB&originRegion=us-east-1&originCreation=20211017062434'>pdf</a></span> </td>
-  </tr>
   <tr>
    <td style="text-align:left;"> <div data-badge-popover='right' data-badge-type='donut' data-doi='10.21203/rs.3.rs-77798/v1' data-hide-no-mentions='true' class='altmetric-embed'></div> </td>
    <td style="text-align:left;"> <a class='anchor' id='evidence_for_opposing_selective_forces_operating_on_human_specific_duplicated_tcaf_genes_in_neanderthals_and_humans'></a><span class='pub-title'><a href='https://www.nature.com/articles/s41467-021-25435-4'>Evidence for opposing selective forces operating on human-specific duplicated TCAF genes in Neanderthals and humans</a></span><br> <b>Hsieh PH</b>, Dang V, Vollger MR, Mao Y, Huang T, Dishuck PC, Baker C, Cantsilieris S, Lewis AP, Munson KM, Sorensen M, Welch AE, Underwood JG, Eichler EE. <br> <i>Nature Communications</i> <br>  <span class='publication-extra'><a href='https://www.nature.com/articles/s41467-021-25435-4.pdf'>pdf</a></span> </td>
