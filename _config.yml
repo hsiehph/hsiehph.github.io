@@ -68,8 +68,8 @@ atom_feed:
 analytics:
   provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-#    tracking_id          : UA-191468134-1
-    measurement_id       : G-ZX4G1972DX
+    tracking_id          : UA-191468134-1
+#    measurement_id       : G-ZX4G1972DX
     anonymize_ip         : #false # false (default)
     optimize_id          : #GTM-WV93XGT
     allow_google_signals : #false
