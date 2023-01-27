@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "PingHsun Hsieh"
+title: "The Hsieh Lab"
 subtitle: "population genomics · structural variation · long-read sequencing"
 name: ""
-email: hsiehph@uw.edu 
+email: hsiehph@umn.edu 
 description: >- # this means to ignore newlines until "baseurl:"
   Population genomics · structural variation · long-read sequencing.
 twitter_username: phhBenson
@@ -81,11 +81,11 @@ author:
   name   : "PingHsun Hsieh"
   avatar : "/assets/images/PingHsunHsieh.jpg"
   bio    : >- 
-      NIH K99/R00 fellow<br>
-      University of Washington
-  location: "Seattle, WA"
+      Assistant Professor<br>
+      University of Minnesota
+  location: "Twin Cities, MN"
   links:
-    - label: "hsiehph [@] uw.edu"
+    - label: "hsiehph [@] umn.edu"
       icon: "far fa-envelope"
       url: ""
     - label: "Google Scholar"
