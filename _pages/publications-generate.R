@@ -4,7 +4,7 @@ library(glue)
 library(lubridate)
 library(googlesheets4)
 gs4_deauth()
-publications <- read_sheet("https://docs.google.com/spreadsheets/d/1cidNniY9A8HlGvYeVWyt5LGkAiT5lC2YXED0E2dslzA/edit?usp=sharing",
+publications <- read_sheet("https://docs.google.com/spreadsheets/d/1jF1pjT_GcL-y_geOz8C-4FBeTNBRi_1zpvhDL3PhPIg/edit?usp=sharing",
            sheet = "publications",
            col_types = "c") %>% 
   mutate(anchor = ifelse(is.na(short_title), 
